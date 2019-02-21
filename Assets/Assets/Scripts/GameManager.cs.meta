@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 1b85bfc315b5cff42b640fb717cfbd5d
+timeCreated: 1496863039
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - player: {instanceID: 0}
+  - GameOver: {instanceID: 0}
+  - grass: {fileID: 4993372870673802, guid: 7be3cba16002f294795823dc47dccfa6, type: 2}
+  - wood: {fileID: 4229127904687774, guid: 5fd1a362e9f52be41a855d9a7c351d90, type: 2}
+  - ice: {fileID: 4857022039304586, guid: 8802ea8427c9e1d4899b61f659c0496a, type: 2}
+  - spring: {fileID: 4555403753439256, guid: 8bf0e0ba414786b4783afed28c16df0b, type: 2}
+  - background: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
